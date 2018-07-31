@@ -1,6 +1,6 @@
-# router-app
+# Vue Route APP
 
-> A Vue.js project
+> A Vue.js boilerplate with all functionalities
 
 ## Build Setup
 
