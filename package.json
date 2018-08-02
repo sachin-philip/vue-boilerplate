@@ -1,7 +1,7 @@
 {
-  "name": "router-app",
+  "name": "boilerplate",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Vue boilerplate",
   "author": "",
   "private": true,
   "scripts": {
