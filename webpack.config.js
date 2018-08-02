@@ -1,6 +1,6 @@
 var path = require('path')
-var utils = require('./utils')
-var config = require('../config')
+var utils = require('./build/utils')
+var config = require('./config')
 const VueLoaderPlugin = require('vue-loader/lib/plugin')
 
 function resolve (dir) {
@@ -8,7 +8,6 @@ function resolve (dir) {
 }
 
 module.exports = {
-  mode: 'production',
   entry: {
     app: './src/main.js'
   },

@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import New from '@/components/New'
+import New from './../components/New'
 
 Vue.use(Router)
 
