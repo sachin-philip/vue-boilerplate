@@ -1,15 +1,19 @@
-[logo]: https://github.com/labtocat/vue2/src/assets/logo.png "Vue Boilerplate"
+[logo]: https://labtocat.github.com/vue-boilerplate/src/assets/logo.png "Vue Boilerplate"
 
 # Vue Boilerplate
 
-Project is a alternative for vue-cli more focused on *build configuration* along with vue-router. Vue-cli is one of the best bundling settings ever, Idea of this project is to improve the user understanding of underhood working of the bundling process.
+The project is an alternative for vue-cli more focused on build configuration along with vue-router. Vue-cli is one of the best bundling settings ever, Idea of this project is to improve the user understanding of the underhood working of the bundling process in depth.
 
-Following modules are included in this project.
+Following are the build configuration included in this project.
 
-  - webpack configuration
-  - babel setup
-  - vue-router
-  - basic vuejs
+  - webpack `webpack.config.js`
+    - sass-loader
+    - css-loader
+    - IgnorePlugin like `locale`, `moment`
+  - babel `.babelrc`
+  - eslint `.eslint`
+    - Airbnb Standard
+
 
 ## Build Setup
 
@@ -23,3 +27,5 @@ npm start
 # build for production with minification
 npm run build
 ```
+
+*Thanks*
