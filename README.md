@@ -1,3 +1,5 @@
+[logo]: https://github.com/labtocat/vue2/src/assets/logo.png "Vue Boilerplate"
+
 # Vue Boilerplate
 
 Project is a alternative for vue-cli more focused on *build configuration* along with vue-router. Vue-cli is one of the best bundling settings ever, Idea of this project is to improve the user understanding of underhood working of the bundling process.
