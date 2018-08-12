@@ -9,7 +9,7 @@ export default {
   name: 'New',
   data () {
     return {
-      msg: 'Welcome to Boilerplate'
+      msg: 'Welcome to Boilerplate v2 with webpack4 and babel 7'
     }
   }
 }
