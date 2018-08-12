@@ -3,6 +3,6 @@ name: Vue Boilerplate
 
 description: Vue BoilerPlate with babel7/weback4
 
-avatar: https://github.com/labtocat/vue2/src/assets/logo.png
-title-img: https://github.com/labtocat/vue2/src/assets/logo.png
-logo : https://github.com/labtocat/vue2/src/assets/logo.png
+avatar: https://labtocat.github.io/vue-boilerplate/src/assets/logo.png
+title-img: https://labtocat.github.io/vue-boilerplate/src/assets/logo.png
+logo : https://labtocat.github.io/vue-boilerplate/src/assets/logo.png
