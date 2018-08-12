@@ -1,4 +1,4 @@
-[logo]: https://labtocat.github.com/vue-boilerplate/src/assets/logo.png "Vue Boilerplate"
+![Vue Boilerplate](https://labtocat.github.com/vue-boilerplate/src/assets/logo.png)
 
 # Vue Boilerplate
 
