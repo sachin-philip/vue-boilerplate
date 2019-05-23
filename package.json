@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
-    "webpack-dev-server": "^3.1.14"
+    "webpack-dev-server": "^3.1.11"
   },
   "devDependencies": {
     "autoprefixer": "^9.1.0",
